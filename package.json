@@ -1,0 +1,24 @@
+{
+  "name": "crud_alunos",
+  "version": "1.0.0",
+  "description": "A CRUD of students for the curriculum of system distributed at Universidade São Judas, made in Node.js",
+  "main": "index.js",
+  "scripts": {
+    "start": "npx nodemon src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/davibrandao18/crud_alunos.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/davibrandao18/crud_alunos/issues"
+  },
+  "homepage": "https://github.com/davibrandao18/crud_alunos#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.7"
+  }
+}
